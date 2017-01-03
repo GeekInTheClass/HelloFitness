@@ -30,3 +30,6 @@ push test
 아니 내가 하길싫다는ㄱ
 
 약간 내용이해가안대
+
+complict
+
