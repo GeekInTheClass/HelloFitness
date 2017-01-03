@@ -28,5 +28,7 @@
 하기실허요
 >>>>>>> origin/master
 진짜 하기 실허요
+<<<<<<< HEAD
 
 push test
+아니 내가 하길싫다는ㄱ
